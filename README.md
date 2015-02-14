@@ -3,4 +3,4 @@ Practice using Git for CS169
 
 Woah so exciting
 
-Man Joel is so cool
+Man Joel really is the coolest guy in the **world**
